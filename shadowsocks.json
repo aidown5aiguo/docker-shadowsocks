@@ -1,0 +1,15 @@
+{  
+    "server":"0.0.0.0",  
+    "local_address": "127.0.0.1",  
+    "local_port":1080,  
+    "port_password":{  
+         "8989":"QTMDGFW",  
+         "9001":"QTMDGFW",  
+         "9002":"QTMDGFW",  
+         "9003":"QTMDGFW",  
+         "9004":"QTMDGFW"  
+    },  
+    "timeout":300,  
+    "method":"aes-256-cfb",  
+    "fast_open": true  
+}  
