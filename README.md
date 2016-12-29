@@ -3,7 +3,9 @@
 
 # 使用方法
 ```
-git clone https://github.com/bingoku/docker-shadowsocks.git cd docker-shadowsocks docker-compose up -d 
+git clone https://github.com/bingoku/docker-shadowsocks.git 
+cd docker-shadowsocks
+docker-compose up -d
 ```
 
 # 配置修改
