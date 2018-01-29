@@ -5,6 +5,7 @@
 ```
 git clone https://github.com/bingoku/docker-shadowsocks.git 
 cd docker-shadowsocks
+docker build -t bingoku/shadowsocks .
 docker-compose up -d
 ```
 
